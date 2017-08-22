@@ -1,0 +1,45 @@
+
+;; ----- smex-history -----
+(
+ toggle-truncate-lines
+ revert-buffer-with-coding-system
+ set-buffer-file-coding-system
+ unify-8859-on-encoding-mode
+ describe-coding-system
+ list-packages
+ magit-diff
+)
+
+;; ----- smex-data -----
+(
+ (toggle-scroll-bar . 1)
+ (menu-bar-mode . 19)
+ (help-with-tutorial . 1)
+ (list-packages . 23)
+ (emmet-mode . 2)
+ (ergoemacs-display-current-theme . 1)
+ (package-autoremove . 1)
+ (toggle-truncate-lines . 18)
+ (php-mode . 1)
+ (sublimity-mode . 7)
+ (scroll-bar-mode . 1)
+ (org-mode . 3)
+ (eval-region . 1)
+ (color-theme-sanityinc-tomorrow-night . 1)
+ (eval-defun . 1)
+ (tetris . 1)
+ (package-list-packages . 1)
+ (TeX-mode . 3)
+ (LaTeX-mode . 1)
+ (package-install . 1)
+ (load-theme . 1)
+ (set-buffer-file-coding-system . 18)
+ (revert-buffer-with-coding-system . 8)
+ (describe-coding-system . 2)
+ (git-gutter-mode . 1)
+ (linum-mode . 2)
+ (magit-diff . 1)
+ (org-latex-export-to-pdf . 1)
+ (org-beamer-export-to-pdf . 1)
+ (unify-8859-on-encoding-mode . 1)
+)

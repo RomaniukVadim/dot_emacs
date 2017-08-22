@@ -1,0 +1,239 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/reverse_tcp/GitRepos/droptogif/" . "droptogif/")
+ ("/home/reverse_tcp/GitRepos/" . "droptogif/")
+ ("/home/reverse_tcp/Downloads/tex/" . "Metodichka RQM/")
+ ("/home/reverse_tcp/Documents/c/" . "module/")
+ ("/home/reverse_tcp/Repos/" . ".emacs.d/")
+ ("/home/reverse_tcp/Downloads/bot/" . "signa/")
+ ("/home/reverse_tcp/html/html/" . "signa/")
+ ("/home/reverse_tcp/html/" . "html/")
+ ("/home/reverse_tcp/Desktop/pentest/" . "14Wifi/")
+ ("/home/reverse_tcp/Documents/Project/gtk-hello/" . "src/")
+ ("/home/reverse_tcp/Documents/Project/hello-again/" . "data/")
+ ("/home/reverse_tcp/Documents/Project/" . "hello-again/")
+ ("/home/reverse_tcp/Documents/gtk-hello/" . "src/")
+ ("/home/reverse_tcp/Desktop/vk_backup/" . "plugins/")
+ ("/home/reverse_tcp/Documents/test/" . "xml/")
+ ("/home/reverse_tcp/Documents/" . "c/")
+ ("/" . "home/")
+ ("/var/www/localhost/" . "htdocs/")
+ ("/var/www/" . "localhost/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/example/reverse_tcp/" . "myapplication/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/example/" . "reverse_tcp/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/" . "example/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/" . "com/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/" . "java/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/" . "test/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/" . "src/")
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/" . "app/")
+ ("/home/reverse_tcp/AndroidStudioProjects/" . "MyApplication/")
+ ("/home/reverse_tcp/" . "GitRepos/")
+ ("/home/reverse_tcp/Desktop/" . "МаныПоЗаработку/")
+ ("/home/reverse_tcp/Downloads/" . "tex/")
+ ("/home/" . "reverse_tcp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/reverse_tcp/GitRepos/droptogif/droptogif/"
+ "/home/reverse_tcp/Desktop/vkmessages/"
+ "/home/reverse_tcp/Downloads/tex/Metodichka RQM/"
+ "/home/reverse_tcp/latex/"
+ "/home/reverse_tcp/haskell/"
+ "/home/reverse_tcp/Desktop/"
+ "/home/reverse_tcp/Documents/"
+ "/home/reverse_tcp/Desktop/linux/"
+ "/home/reverse_tcp/"
+ "/home/reverse_tcp/Documents/c/module/"
+ "/home/reverse_tcp/Documents/c/"
+ "/home/reverse_tcp/Documents/c/splincode/"
+ "/home/reverse_tcp/.xmonad/"
+ "/home/reverse_tcp/Repos/.emacs.d/"
+ "/home/reverse_tcp/Downloads/"
+ "/home/reverse_tcp/Desktop/script/"
+ "/home/reverse_tcp/Desktop/vk_backup/"
+ "/home/reverse_tcp/Desktop/vk/"
+ "/home/reverse_tcp/Desktop/pentest/14Wifi/"
+ "/home/reverse_tcp/Desktop/telegram/"
+ "/home/reverse_tcp/Downloads/bot/"
+ "/home/reverse_tcp/html/"
+ "/home/reverse_tcp/html/html/"
+ "/home/reverse_tcp/Downloads/и/"
+ "/home/reverse_tcp/Desktop/pentest/04 Enumeration/"
+ "/home/reverse_tcp/Desktop/pentest/"
+ "/home/reverse_tcp/Documents/python/"
+ "/home/reverse_tcp/Documents/Project/hello-again/data/"
+ "/home/reverse_tcp/Documents/Project/gtk-hello/src/"
+ "/home/reverse_tcp/Documents/Project/hello-again/src/"
+ "/home/reverse_tcp/Documents/gtk-hello/src/"
+ "/home/reverse_tcp/Documents/test/"
+ "/home/reverse_tcp/Desktop/vk_backup/plugins/"
+ "/var/www/localhost/htdocs/"
+ "/home/reverse_tcp/Documents/test/xml/"
+ "/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/example/reverse_tcp/myapplication/"
+ "/home/reverse_tcp/Desktop/romaniukvadim.github.io/"
+ "/home/reverse_tcp/Downloads/web_morda/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "gifify"
+ "photos.csv"
+ "albums.csv"
+ "main.tex"
+ "tutorial6.tex"
+ "tutorial1.tex"
+ "KvantMex1.tex"
+ "Lecture1.tex"
+ "baby.hs"
+ "10-15$+в+день.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/reverse_tcp/GitRepos/droptogif/droptogif/" (22938 5365 553565 9000) "../" "Язык Swift, урок 6 - Массивы-DduKRi55l3w.mp4" "getsize.sh" "gifify" "ffmpeg" "./" "convert")
+
+ ("/home/reverse_tcp/GitRepos/droptogif/" (22935 16248 948606 426000) "../" "ux/" "droptogifTests/" "droptogif/" "RollerCoasterGenerator.swift" "./" ".git/" "README.md" "droptogif.xcodeproj/")
+
+ ("/home/reverse_tcp/GitRepos/" (22935 15799 78375 640000) "../" "droptogif/" "./")
+
+ ("/home/reverse_tcp/" (22938 5385 729665 57000) ".icons/" ".npm/" ".Skype/" "Documents/" ".audacity-data/" ".zcompdump-ponybook-5.3.1" "Videos/" ".wine/" ".bash_profile" ".VirtualBox/" ".AndroidStudio2.2/" ".zcash-params/" ".weechat/" ".AndroidStudio2.3/" ".stack/" ".bundle/" ".zenmap/" ".wget-hsts" ".bash_history" ".thunderbird/" ".packettracer" ".zsh_history" ".gem/" ".gradle/" ".steampid" "Pictures/" ".idris/" ".gnome2/" ".repoconfig/" ".themes/" ".telegram-cli/" ".xmonad/" ".steampath" ".mozilla/" ".bash_logout" ".arduino15/" ".vimperator/" ".hashcat/" ".vscode/" ".dmrc" ".xinitrc" "Public/" ".renpy/" ".electrum/" ".wpscan/" ".stalonetrayrc.dual" ".gitconfig" "Desktop/" ".thumbnails/" ".vkrc" ".ssh/" ".gnome/" ".mysql_history" ".python_history" ".nitrodata.pkl" "SDK/" ".subversion/" ".cache/" ".gentoo/" ".zsh-update" ".lyrics/" ".emacs.d/" "Music/" ".dropbox-dist/" ".pki/" ".config/" ".oh-my-zsh/" "Downloads/" ".ncmpcpp/" ".ghc/" ".qjoypad3/" ".weevely/" ".screenlayout/" ".Genymobile/" ".local/" ".aqemu/" "haskell/" ".emacs~" ".sims3/" "Dropbox/" "latex/" "GitRepos/" ".gstreamer-0.10/" ".armitage.prop" ".java/" ".xsession-errors" ".sqlmap/" ".nv/" ".zshrc" ".viminfo" ".android/" "vk_oleg.py" "Templates/" ".docker/" ".emulator_console_auth_token" ".msf4/" ".binwalk/" ".gnome2_private/" ".IntelliJIdea2016.3/" ".stalonetrayrc.laptop" ".arduino/" ".oracle_jre_usage/" ".xsession-errors.old" ".wine-teamviewer12/" ".bashrc" ".gtkrc-2.0" ".vagrant.d/" ".putty/" ".fonts/" ".ZAP/" ".gnupg/" ".steam/" ".w3m/" ".adobe/" ".emacs" ".dbus/" ".stalonetrayrc" ".Xauthority" ".mysql/" ".dropbox/" ".nvidia-settings-rc" ".vimperatorrc" ".nessusrc" ".armitage/" ".macromedia/" ".repo_.gitconfig.json" ".profile" ".BurpSuite/" ".xprofile" ".Xresources" "../" "./")
+
+ ("/home/reverse_tcp/Desktop/vkmessages/" (22938 735 290604 775000) "../" "all_photos.csv" "targets.csv" "./" "albums.csv" "dialogs.csv" "users.csv" "documents.csv" "messages.csv" "photos.csv" "visits.csv")
+
+ ("/home/reverse_tcp/Downloads/tex/Metodichka RQM/" (22936 19751 666950 943000) "../" "Lecture1.log" "KvantMex1.out" "KvantMex1.log" "KvantMex1.toc" ".DS_Store" "main.tex" "KvantMex1.aux" "./" "Lecture1.aux" "Lecture1.pdf" "KvantMex1.tex")
+
+ ("/home/reverse_tcp/Downloads/tex/" (22936 11832 571682 270000) "QuantMech.zip" "__MACOSX/" "../" "Список питань.doc" "./" "Metodichka RQM/")
+
+ ("/home/reverse_tcp/Downloads/" (22936 11757 743311 216000) "KvantMex1.pdf" "smb.dat" "test.jnlp" "Telegram Desktop/" "file" "exploit.php" "NEKOPARA Vol.3/" "Backend%2Bengineer.pdf" "python_sqli_scanner.py" "cdc226.txt" "index.php" "aks.txt" "nginx_dos.py" "Socks_5_Proxy.txt" ".0c147cebcac721ab5d4ad46a8b84876133b352fa.parts" "heartbleed.py" "out.txt" "result" "Wiley.The.Shellcoders.Handbook.2nd.Edition.Aug.2007.pdf" "download" "file.php" "manual.pdf" "Фейт - TCP IP. Архитектура, протоколы и реализация, включая IPv6 и IP Security - 2000.djvu" "specimen.html" "charset.txt" "cman.pdf" "HaskellBook.pdf" "Nazarenko_Algoritmy_i_struktury_dannyh.pdf" "NuPOE_ioncube.php.txt" "png_invert.py" "terms_ua.pdf" "SQL.png" "contract_ua.pdf" "tex/" "auctex.pdf" "sql pas" "../" "./")
+
+ ("/home/reverse_tcp/haskell/" (22926 4402 184816 52000) "../" "./" "baby.hs")
+
+ ("/home/reverse_tcp/Desktop/МаныПоЗаработку/" (22928 14841 345293 282000) "Рулетка.rar" "Заработай_с_St_26.txt" "SIM заработок [by rav1on].txt" "Получаем любой способ на халяву.txt" "asd.txt" "../" "Новый.txt" "Уникальный способ заработка.txt" "sposob.txt" "Казино2.txt" "codehook metod na bk_3.txt" "Текстовый документ.txt" "заработок.txt" "Мой способ.txt" "zarabotokplati.doc" "схем.txt" "Текстовый документ (12).txt" "ставки тоже хз откуда.txt" "Шедевр2/" "Заработок (приват).docx" "Как заработать деньги в интернете.txt" "Ключи,_тайм_карты_STRAKH.txt" "Стратегия (1).txt" "Стратегия на рулетку/" "Способ заработка неплохого.txt" "Способ заработка от fleep.txt" "Заработок на базах мыл и ucoz/" "способ.doc" "картонки.txt" "4000.txt" "Заработок (1).txt" "Мануал_по_заработку_на_пдп_50-100$_в_сутки!!!.pdf" "Способ обмана БК.txt" "Метод хорошего заработка.txt" "./" "Ставки2.txt" "Текстовый документ (10).txt" "Предлагаю заработать в Интернете.docx" "10-15$+в+день.txt" "twitter.txt" "123123sposob.txt" "Заработок на одностраничниках Монетизация кинотрафа/" "Способ+заработка+от+Rapper_iz_Gomelya.txt" "заработок на фейсбуке и твиттре.txt" "Способ заработка ( не закон ).rtf" "Форекс.txt" "Заработок_2.txt" "[ БУКМЕКЕРСКИЕ КОНТОРЫ ] ЗАРАБОТОК (C) sdqt.docx" "1000р.txt" "Ставки схемы/" "Отмыв денег с PayPal (1).txt" "20 стратегий получения быстрых денег в интернете.pdf" "SHedevr/" "Стратегия.txt" "Способ!.txt" "Зарабаток.txt" "Способ_3.txt" "способы зарабатка (новые)/" "Текстовый документ (1).txt" "Способ накрутка.txt" "Ставки.txt" "Казино.txt" "Стратегия игры by leackey_2.txt")
+
+ ("/home/reverse_tcp/Documents/" (22928 13136 304838 443000) "KvantMex1.pdf" "htaccess" "Univ/" "../" "Yakunov_4/" "Moderncv Classic/" "download_5319129774176600268.pdf" "Spectr - 2017.docx" "QM4.pdf" "python/" "#romaniuk_vadim_resume.log#" "download_5274003716733665378.pdf" "c/" "array_leftRotation.class" "pa.xml" "Unit/" "file.txt" "romaniuk_vadim_resume.tex" "porn13.mp4" "index.html" "arachni-1.5-0.5.11/" "v46i03.pdf" "docker/" "x.sh" "CV.docx" "scan.csv" "file.php" "test.cpp" "ip_kiev/" "./" "test.txt" "CV-1.docx" "Programming.pdf" "EQGRP-Auction-Files.zip" "NewFolder/" "56_RouterScan/" "SecLists/" "test_task.txt" "#factorial.cpp#" "titles/" "resume.pdf" "¯à/" "Senior NodeJS Developer UKraine.docx" "OWASP/" "romaniuk_vadim_resume.pdf" "Working Files/" "download_5222457524996800584.pdf" "ZAP_2.5.0/" "kv/" "users" "pass" "QM1.pdf" "array_leftRotation.java" "magic_bytes" "Project/" "CV.pdf")
+
+ ("/home/reverse_tcp/Desktop/" (22928 14961 449888 849000) "nginx-apache-https.rar" "../" "c - Unknown.pdf" "file" "Zolotaya_Seredina_Obzor_Instrumentov_Dlya_Provedenia_MITM-Atak__khaker.pdf" "pfsense - The Definitive Guide.pdf" "asynchronous_parser/" "nginx_config/" "HYDRA/" "Cracking_the_Coding_Interview_-_150_Programming_Interview_Questions_and_Solutions_4e_Small.pdf" "МаныПоЗаработку/" "domain_name" "urls.txt" "apache+nginx.txt" "script/" "Таненбаум - Компьютерные сети. 5-е издание.pdf" "vk/" "index.html" "ftpKPI" "MiyukiBot/" "vk_backup/" "baza.txt" "makman.txt" "bot.py" "tokens.txt" "VK_PRON/" "makman.py" "duck-duck.pdf" "978549601915_X.pdf" "steam.desktop" "Веб-безопасность 101. Курс молодого бойца.pdf" "joomla_sqli_mass_exploit.py" "./" "test.txt" "domain_name.conf" "Таненбаум - Архитектура компьютера. 6-e издание.pdf" "settings.py" "Debian_Tanenbaum.pdf" "Stan_Adminom_33_11_Tekhnik_Atak_S_Povysheniem_Privilegy_V_Windows__khaker.pdf" "regexp.pdf" "10-15$+в+день.txt" "parser.py" "telegram/" "makman.pyc" "linux/" "test.py" "vk_photo_flud.py" "Подготовка по-новому/" "algorithms-in-a-nutshell-2nd_proglib.pdf" "getTokens.py" "rpaf.conf" "pass" "pentest/" "apache_config/" "upload.html" "NEKOPARA vol3.desktop" "Vkbase_pass")
+
+ ("/var/www/localhost/htdocs/" (22924 16627 15484 764000) "../" "index2.php" "b375k.php" "New.pdf" "images/" "directoryreader.php" "index.html" "file.vbs" "./" "filee" "test.php" "collectd-web/" "drupal.php" "wzamodya_ndukc_t.docx" "easy_money.rtf" "shell.php")
+
+ ("/home/reverse_tcp/Documents/c/splincode/" (22920 47725 697792 902000) "../" "./" "c.org")
+
+ ("/home/reverse_tcp/Desktop/linux/" (22921 35637 366825 581000) "#lpic-201.org#" "../" "lpic-201.org" "interview.org" "./" "linux_in_real_world.org" "lpic-202.org")
+
+ ("/home/reverse_tcp/Documents/c/module/" (22921 32740 476460 677000) "../" "ex_mod.o" "Makefile" "ex_mod.mod.c" ".ex_mod.ko.cmd" ".ex_mod.mod.o.cmd" "ex_mod.mod.o" "./" "ex_mod.ko" "Module.symvers" ".ex_mod.o.cmd" "ex_mod.c" "modules.order" ".tmp_versions/")
+
+ ("/home/reverse_tcp/Documents/c/" (22921 31875 736172 661000) "scope_rules.c" "../" "a.out" "for_loop.c" "42-Wolf3D/" "pointers.c" "module/" "union.c" "hello_world.c" "while_loop.c" "input_output.c" "./" "strings.c" "array.c" "splincode/" "pointers_as_function_arg.c" "functions.c" "arguments.c" "struct.c" "ternary_practice.c" "variables.c" "switch.c" "if_statements.c" "maff_alpha.c" "ternary_operator.c")
+
+ ("/home/reverse_tcp/Documents/python/" (22913 51224 782294 907000) "instances.py" "../" "storage.dat" "exceptions.py" "parsing_websites.py" "networkServer.py" "Threads.py" ".#smtp.py" "Loops.py" "parsingArgs.py" "nameLookup.py" ".#networkServer.py" "raw.py" "file.txt" "SystemCalls.py" "smtp.py" "./" "networkClient.py" "myfile" "usingSSL.py" "#networkServer.py#" "Conditionals.py" "#smtp.py#" "classes.py" "bannerGrabbing.py" "simpleHTTP.py" "readingheaders.py")
+
+ ("/home/reverse_tcp/Repos/.emacs.d/" (22903 58867 893017 951000) "../" "init.example.el" "Makefile" "CHANGELOG.org" "bin/" "core/" "modules/" "init.test.el" ".gitignore" "./" ".travis.yml" "#init.example.el#" ".git/" "README.md" "LICENSE")
+
+ ("/home/reverse_tcp/.xmonad/" (22912 48069 485673 161000) "../" "xmobar.hs.dual_monitor" "xmonad.state" "xmonad.errors" "xmobar.hs" "xmonad.hi" "xmonad-x86_64-linux" "xmobar.hs_" "getvolume.sh" "./" "xmonad.hs" "xmobar.hs.laptop" "xmonad.o")
+
+ ("/home/reverse_tcp/Repos/" (22903 56286 624218 130000) "../" ".emacs.d/" "./")
+
+ ("/home/" (22903 13320 875162 486000) "../" "reverse_tcp/" ".keep_sys-apps_baselayout-0" "./")
+
+ ("/home/reverse_tcp/latex/" (22895 54725 3838 549000) "tutorial4.aux" "../" "tutorial8.tex" "tutorial6.log" "tutorial9.log" "tutorial8.pdf" "tutorial4.pdf" "tutorial2.pdf" "tutorial9.tex" "tutorial9.toc" "tutorial7.pdf" "tutorial2.synctex.gz" "tutorial2.log" "tutorial7.tex" "tutorial1.pdf" "tutorial3.pdf" "tutorial2.aux" "tutorial7.log" "tutorial3.synctex.gz" "tutorial6.toc" "loli.jpg" "tutorial6.synctex.gz" "tutorial6.tex" "#tex.org#" "tutorial4.synctex.gz" "tutorial1.aux" "./" "tutorial5.log" "tutorial3.log" "tutorial8.log" "tutorial5.toc" "tutorial7.synctex.gz" "tutorial4.tex" "tutorial1.tex" "tutorial4.log" "tutorial9.aux" "tutorial1.log" "tutorial7.aux" "tutorial5.tex" "tutorial1.dvi" "tutorial5.pdf" "tutorial6.pdf" "tutorial5.aux" "tutorial9.pdf" "tutorial3.tex" "tutorial3.aux" "tutorial2.tex" "tutorial9.synctex.gz" "tutorial5.synctex.gz" "tutorial8.aux" "tutorial6.aux" "tutorial8.synctex.gz")
+
+ ("/home/reverse_tcp/Desktop/script/" (22887 63275 288273 405000) "../" "./" "gelboru.py" "url_clean.txt" "phpinfo_finder.sh" "url.txt")
+
+ ("/home/reverse_tcp/Desktop/pentest/" (22885 5624 560472 953000) "../" "04 Enumeration/" "ssl_strip.org" "02Footprinting/" "14Wifi/" "evil_twin.org" "./" "ports.fact" "Netcat cheatsheet.html" "fun.org" "07Sniffing/")
+
+ ("/home/reverse_tcp/Desktop/pentest/04 Enumeration/" (22885 5631 580507 764000) "rfc1157 - SNMP.txt" "../" "roadmap_orgmoge.txt" "rfc1928 - SOCKS 5.txt" "#roadmap_orgmoge.txt#" "rfc1213 - MIB.txt" "./")
+
+ ("/home/reverse_tcp/Desktop/pentest/14Wifi/" (22885 5629 584497 866000) "../" "roadmap.org" "./")
+
+ ("/home/reverse_tcp/Desktop/vk_backup/" (22881 43688 957654 328000) "../" "#main.py#" "messages.json" "vk_config.json" "#messages.json#" "./" "main.py")
+
+ ("/home/reverse_tcp/Desktop/vk/" (22879 33256 535971 792000) "../" "vk_posts.py" "#vk_messages.py#" "output" "photo.php" "vk_purge_comments.py" "./" "vk_videos.py" "vk_messages.py" "vk_upload_video.py" "vk_photo_flud.py" "vk_photo_upload.py" "vk_photos.py" "#vk_photo_flud.py#" "vk_doc_upload.py" "vk_photo_upload.py.save")
+
+ ("/home/reverse_tcp/Desktop/telegram/" (22873 8467 764305 669000) "../" "package.json" ".gitignore" "tiled.png" "./" ".git/" "colors.tdesktop-theme" "README.md" "LICENSE" "#telega.py#")
+
+ ("/home/reverse_tcp/html/" (22871 56398 455822 48000) "index4.php" "../" "#config.cfg#" "index2.php" "PFKidsPro-GradeOne.ttf" "html/" "logic.php" "source_code_loli_bot.zip" "index.php" "config.cfg" "backup.zip" "lolibotvk1337.ru.error.log" "signa.json" "./" "index3.php" "working_backup/")
+
+ ("/home/reverse_tcp/Downloads/bot/" (22871 62290 881249 143000) "bot.php" "../" "signa/" "fonts/" "config.json" "./")
+
+ ("/home/reverse_tcp/Downloads/bot/signa/" (22871 58099 272255 941000) "../" "1.png" "2.png" "sagiri.png" "shinobu.png" "kanna.png" "megumin.png" "./" "shiro.png" "rori.png" "megumin2.png")
+
+ ("/home/reverse_tcp/Downloads/bot/fonts/" (22847 55485 0 0) "birchctt.ttf" "../" "betina-bold.ttf" "4303.ttf" "Annabelle.ttf" "./" "teslics-document-cyr-normal.ttf" "freestyle-script-normal.ttf" "PT Script Breeze.ttf" "ninactt.ttf")
+
+ ("/home/reverse_tcp/html/html/signa/" (22870 32177 422740 956000) "../" "1.png" "2.png" "sagiri.png" "shinobu.png" "kanna.png" "megumin.png" "./" "shiro.png" "rori.png" "megumin2.png")
+
+ ("/home/reverse_tcp/html/html/" (22870 32177 2738 873000) "../" "logic.php" "signa/" "index.php" "config.cfg" "fonts/" "signa.json" "./")
+
+ ("/home/reverse_tcp/Downloads/и/" (22867 31570 828806 594000) "../" "signa/" "index.php" "fonts/" "signa.json" "./" "#index.php#")
+
+ ("/home/reverse_tcp/.emacs.d/" (22854 29710 273674 410000) "abbrev_defs" "srecode-map.el" "../" "recentf~" "#recentf#" "vendor/" "snippets/" "projectile-bookmarks.eld" "./" "elpa/" "recentf" "ido.last" "ergoemacs-extras/" "smex-items" "ac-comphist.dat" "packages/" "auto-save-list/")
+
+ ("/home/reverse_tcp/Documents/Project/hello-again/data/" (22833 51672 861192 84000) "../" "com.github.romaniukvadim.vala-test.desktop" "./")
+
+ ("/home/reverse_tcp/Documents/Project/hello-again/" (22833 51432 183998 630000) "../" "./" "src/" "data/")
+
+ ("/home/reverse_tcp/Documents/Project/hello-again/src/" (22833 51163 294665 280000) "../" "hello-again.vala" "./" "hello-again")
+
+ ("/home/reverse_tcp/Documents/Project/gtk-hello/src/" (22833 24081 68371 772000) "../" "gtk-hello" "gtk-hello.vala" "./")
+
+ ("/home/reverse_tcp/Documents/Project/gtk-hello/" (22833 24204 4981 382000) "../" "./" "src/" ".git/" "README.md")
+
+ ("/home/reverse_tcp/Documents/Project/" (22833 24723 963559 717000) "../" "gtk-hello/" "./" "hello-again/")
+
+ ("/home/reverse_tcp/Documents/gtk-hello/src/" (22833 23554 365759 995000) "../" "./")
+
+ ("/home/reverse_tcp/Documents/gtk-hello/" (22833 23554 365759 995000) "../" "./" "src/")
+
+ ("/home/reverse_tcp/Documents/test/" (22824 36202 529353 681000) "style.css" "../" "a.out" "test.s" "alpha1.bmp" "alpha4" "alpha2" "test.c" "#style.css#" "hello" "test.el" "alpha6" "alpha5" "Alpha5.bmp" "org-mode.tex" "index.html" "org-mode" "xml/" "func" "rosn.html" "index2.html" "hello.c" "Alpha4.bmp" "user.java" "hello.s" "./" "alpha1" ".#style.css" "test.java" "Alpha2.bmp" "ctf-wiki/" "func.c" "Alpha3.bmp" "bytes" "read_pix.py" "func.s" "Alpha6.bmp" "alpha3" "org-mode.pdf")
+
+ ("/home/reverse_tcp/Desktop/vk_backup/plugins/" (22820 4597 649546 725000) "settings.pyc" "../" "messages.py" "./" "__init__.py" "settings.py" "messages.pyc" "__init__.pyc")
+
+ ("/home/reverse_tcp/Documents/test/xml/" (22806 4173 786256 11000) "../" "./" "web.xml" "AlietType.dtd")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/example/reverse_tcp/myapplication/" (22798 22964 908591 804000) "../" "ExampleUnitTest.java" "./")
+
+ ("/var/www/localhost/" (22746 25318 990863 254000) "../" "./" "htdocs/")
+
+ ("/var/www/" (22746 25318 990863 254000) "../" "localhost/" "./")
+
+ ("/var/" (22797 31600 542438 124000) "spool/" "../" "games/" "log/" "adm/" "run/" "state/" "empty/" "lib/" ".keep_sys-apps_baselayout-0" "mail/" "./" "radmind/" "svc.d/" "tmp/" "db/" "cache/" "lock/" "www/")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/main/" (22756 5594 933715 807000) "../" "./" "java/" "res/" "AndroidManifest.xml")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/main/java/" (22756 5366 992585 508000) "com/" "../" "./")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/main/java/com/" (22756 5366 992585 508000) "../" "./" "example/")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/" (22756 5366 996585 528000) "../" "reverse_tcp/" "./")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/reverse_tcp/" (22756 5366 996585 528000) "myapplication/" "../" "./")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/reverse_tcp/myapplication/" (22757 25230 260057 607000) "../" "MainActivity.java" "./")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/example/reverse_tcp/" (22756 5367 220586 638000) "myapplication/" "../" "./")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/example/" (22756 5367 220586 638000) "../" "reverse_tcp/" "./")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/com/" (22756 5367 220586 638000) "../" "./" "example/")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/java/" (22756 5367 220586 638000) "com/" "../" "./")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/test/" (22756 5367 220586 638000) "../" "./" "java/")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/src/" (22756 5367 220586 638000) "../" "./" "test/" "androidTest/" "main/")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/app/" (22757 11409 747525 386000) "build/" "../" "app.iml" "libs/" ".gitignore" "./" "src/" "proguard-rules.pro" "build.gradle")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/MyApplication/" (22756 5400 532751 825000) "build/" "../" "gradle/" ".gradle/" "gradle.properties" ".idea/" "gradlew.bat" "MyApplication.iml" ".gitignore" "./" "gradlew" "app/" "local.properties" "settings.gradle" "build.gradle")
+
+ ("/home/reverse_tcp/AndroidStudioProjects/" (22756 5365 960580 390000) "../" "./" "MyApplication/")
+
+ ("/home/reverse_tcp/Desktop/romaniukvadim.github.io/" (22797 35130 635942 913000) "htaccess" "style.css" "../" "blog/" "random/" "books/" "index.html" "portfolio/" "./" "google5fa76e327a3e237a.html" ".git/" "script.js" "README.md" "shell/" "CNAME" "LICENSE")
+
+ ("/home/reverse_tcp/Downloads/web_morda/" (22797 35812 131322 266000) "style.css" "../" "index.html" "./" "script.js" "shell/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
