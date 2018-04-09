@@ -1,6 +1,6 @@
 # Dotfiles emacs
 Move .emacs.d and .emacs to your home directory
-![1](https://raw.githubusercontent.com/RomaniukVadim/dot_emacs/master/screen/screen.png)
+![1](https://i.imgur.com/3YmqIC0.png)
 
 ## Contributing
 
